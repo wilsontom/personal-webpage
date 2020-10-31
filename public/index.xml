@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on wilsontom.co.uk</title>
+    <link>http://wilsontom.co.uk/</link>
+    <description>Recent content in About on wilsontom.co.uk</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© {year} Thomas P Wilson</copyright>
+    <lastBuildDate>Fri, 16 Oct 2020 17:58:26 +0100</lastBuildDate>
+    
+	<atom:link href="http://wilsontom.co.uk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Talks</title>
+      <link>http://wilsontom.co.uk/talks/</link>
+      <pubDate>Fri, 16 Oct 2020 17:04:14 +0100</pubDate>
+      
+      <guid>http://wilsontom.co.uk/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>http://wilsontom.co.uk/publications/</link>
+      <pubDate>Fri, 16 Oct 2020 17:02:51 +0100</pubDate>
+      
+      <guid>http://wilsontom.co.uk/publications/</guid>
+      <description>Beckmann, M., Wilson, T., Zubair, H., Lloyd, A. J., Lyons, L., Phillips, H., Tailliart, K., Gregory, N., Thatcher, R., Garcia‐Perez, I., Frost, G., Mathers, J. M., Draper, J., A Standardized Strategy for Simultaneous Quantification of Urine Metabolites to Validate Development of a Biomarker Panel Allowing Comprehensive Assessment of Dietary Exposure. Mol. Nutr. Food Res. 2020, 2000517.</description>
+    </item>
+    
+  </channel>
+</rss>
