@@ -1,5 +1,61 @@
 baseURL = "http://wilsontom.co.uk"
-languageCode = "en-uk"
+languageCode = "en-us"
 title = "wilsontom.co.uk"
+copyright = "© {year} Thomas P Wilson"
 
+# Set Hugo theme
 theme = "hugo-theme-codex"
+
+
+# Optional params
+
+ [params]
+  dateFormat = "January 2, 2006"
+  
+  twitter = "https://twitter.com/TenspeedTom"
+  github = "https://github.com/wilsontom"
+  email = "mailto:wilsontom89@gmail.com"
+  orcid = "https://orcid.org/0000-0003-3112-4682"
+  google-scholar = "https://scholar.google.com/citations?hl=en&user=OcfahBMAAAAJ"
+  key = "https://keys.mailvelope.com/pks/lookup?op=get&search=wilsontom89%40gmail.com"
+  
+  
+  iconOrder = ["orcid","github", "twitter", "email", "google-scholar", "key"]
+
+ [markup]
+  [markup.highlight]
+    codeFences = false
+    
+  # Set to false to disallow raw HTML in markdown files
+  [markup.goldmark.renderer]
+      unsafe = true
+    
+ # Control the homepage navigation
+ [menu]
+ 	[[menu.main]]
+		identifier = "about"
+ 	        name = "about"
+		title = "About"
+		url = "/"
+		weight = 1
+   
+	[[menu.main]]
+		identifier = "publications"
+		name = "publications"
+		url = "/publications"
+		weight = 1
+
+	[[menu.main]]
+		identifier = "talks"
+		name = "talks"
+		title = "talks"
+		url = "/talks"
+		weight = 3
+
+	[[menu.main]]
+		identifier = "projects"
+		name = "projects"
+		title = "projects"
+		url = "/projects"
+		weight = 2
+
