@@ -1,6 +1,6 @@
 ---
 title: Talks
-date: 2020-10-31
+date: 2020-11-08
 draft: false
 ---
 
@@ -26,6 +26,8 @@ draft: false
   <a href="Invited Talks"></a>
   Invited Talks
 </h2>
+
+* **Metabolomics & Biomarkers of Frailty**. *Nutrition and Frailty: Opportunities for Prevention and Treatment, MRC NRP, Virutal Meeting, November 2020*
 
 * **Biomarker discovery for frailty risk: linking urinary biomarkers to a frailty status**. *FRAILTY: A societal challenge in need of integrated solutions, Universidad Politecnica de Madrid, Madrid, Spain, October 2016*
 
