@@ -19,8 +19,12 @@ See [projects](/projects) for further details on specific research projects.
   Education
 </h3>
 
-  *2011 - 2015*; **PhD Biologicl Sciences (Plant Metabolomics)**. Institute of Biological, Environmental & Rural Sciences (IBERS), Aberystwyth University, UK.
+  *2011 - 2015*. **PhD Biologicl Sciences (Plant Metabolomics)**. Institute of Biological, Environmental & Rural Sciences (IBERS), Aberystwyth University, UK.
 
-  *2010 - 2011*; **MSc Environmental Chemistry**. The School of Chemistry, Bangor University, UK. 
+  * *Application of metabolomics to study the metabolome diversity of the bio-energy grass *Miscanthus*.*
 
-  *2007 - 2010*; **BSc Environmental Chemistry**. School of Chemistry, Bangor University, UK. 
+  *2010 - 2011*. **MSc Environmental Chemistry**. The School of Chemistry, Bangor University, UK. 
+
+  * *The Analysis of Bluebell Base Oil* 
+
+  *2007 - 2010*. **BSc Environmental Chemistry**. School of Chemistry, Bangor University, UK. 
