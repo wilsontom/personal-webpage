@@ -1,8 +1,15 @@
 ---
 title: "CV"
-date: 2020-10-31
+date: 2020-11-12
 draft: false
 ---
+
+<h3 id="Professional Memberships">
+  <a href="Professional Memberships"></a>
+  Professional Memberships
+</h3>
+
+*2016 - Present*; **Member of the Royal Society of Chemistry (MRSC)**
 
 
 <h3 id="Employment">
