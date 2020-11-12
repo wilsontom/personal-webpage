@@ -6,7 +6,7 @@ heading: Tom Wilson
 subheading: Metabolomics, Mass Spectrometry & Healthy Ageing
 ---
 
-Currently a postdoctoral researcher in the High Resolution Metabolomics Laboratory (HRML) at the Institue of Biological, Environmental and Rural Sciences (IBERS), Aberystwyth University UK.
+Currently a postdoctoral researcher in the High Resolution Metabolomics Laboratory (HRML) at the Institute of Biological, Environmental and Rural Sciences (IBERS), Aberystwyth University UK.
 
 My main research theme is the development and application of metabolomics to study the effect of dietary intake and nutritional status on the human urinary metabolome. The key research areas that I contribute to are;
  * Developing targeted LC-MS assays for measuring dietary intake through urinary biomarkers.
