@@ -1,5 +1,5 @@
 ---
-date: 2020-10-31
+date: 2020-11-25
 draft: false
 title: "Publications"
 ---
@@ -10,6 +10,8 @@ title: "Publications"
   <a href="2020"></a>
   2020
 </h2>
+
+Beckmann M, **Wilson T**, Lloyd AJ, Torres D, Goios A, Willis ND, Lyons L, Phillips H, Mathers JC and Draper J. [Challenges Associated With the Design and Deployment of Food Intake Urine Biomarker Technology for Assessment of Habitual Diet in Free-Living Individuals and Populations—A Perspective](https://doi.org/10.3389/fnut.2020.602515). Front. Nutr. 2020, 7:602515. <span class="ai ai-open-access ai-1x"></span>
 
 Beckmann, M., **Wilson, T.**, Zubair, H., Lloyd, A. J., Lyons, L., Phillips, H., Tailliart, K., Gregory, N., Thatcher, R., Garcia‐Perez, I., Frost, G., Mathers, J. M., Draper, J., [A Standardized Strategy for Simultaneous Quantification of Urine Metabolites to Validate Development of a Biomarker Panel Allowing Comprehensive Assessment of Dietary Exposure](https://doi.org/10.1002/mnfr.202000517). Mol. Nutr. Food Res. 2020, 2000517. <span class="ai ai-open-access ai-1x"></span>
 
