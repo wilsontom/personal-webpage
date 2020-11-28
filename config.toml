@@ -60,6 +60,13 @@ theme = "hugo-theme-codex"
 		weight = 2
 
 	[[menu.main]]
+		identifier = "open-source"
+		name = "open source"
+		title = "open source"
+		url = "/open-source"
+		weight = 3
+
+	[[menu.main]]
 		identifier = "cv"
 		name = "cv"
 		title = "cv"
