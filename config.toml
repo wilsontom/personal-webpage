@@ -1,4 +1,4 @@
-baseURL = "http://wilsontom.co.uk"
+baseURL = ""
 languageCode = "en-us"
 title = "wilsontom.co.uk"
 copyright = "© {year} Thomas P Wilson"
@@ -10,6 +10,7 @@ theme = "hugo-theme-codex"
 # Optional params
 
  [params]
+
   dateFormat = "January 2, 2006"
   
   twitter = "https://twitter.com/TenspeedTom"
