@@ -1,10 +1,66 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>About on wilsontom.co.uk</title><link>http://wilsontom.co.uk/</link><description>Recent content in About on wilsontom.co.uk</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>© {year} Thomas P Wilson</copyright><lastBuildDate>Sat, 31 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://wilsontom.co.uk/index.xml" rel="self" type="application/rss+xml"/><item><title>Open Source</title><link>http://wilsontom.co.uk/open-source/</link><pubDate>Thu, 26 Nov 2020 00:00:00 +0000</pubDate><guid>http://wilsontom.co.uk/open-source/</guid><description/></item><item><title>Publications</title><link>http://wilsontom.co.uk/publications/</link><pubDate>Wed, 25 Nov 2020 00:00:00 +0000</pubDate><guid>http://wilsontom.co.uk/publications/</guid><description>2020 Beckmann M, Wilson T, Lloyd AJ, Torres D, Goios A, Willis ND, Lyons L, Phillips H, Mathers JC and Draper J. Challenges Associated With the Design and Deployment of Food Intake Urine Biomarker Technology for Assessment of Habitual Diet in Free-Living Individuals and Populations—A Perspective. Front. Nutr. 2020, 7:602515.
-Beckmann, M., Wilson, T., Zubair, H., Lloyd, A. J., Lyons, L., Phillips, H., Tailliart, K., Gregory, N., Thatcher, R.</description></item><item><title>CV</title><link>http://wilsontom.co.uk/cv/</link><pubDate>Thu, 12 Nov 2020 00:00:00 +0000</pubDate><guid>http://wilsontom.co.uk/cv/</guid><description>Professional Memberships 2016 - Present; Member of the Royal Society of Chemistry (MRSC)
-Employment 2015 - Present; Postdoctoral Researcher. High Resolution Metabolomics Laboratory (HRML), Institute of Biological, Environmental &amp;amp; Rural Sciences (IBERS), Aberystwyth University, UK.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on wilsontom.co.uk</title>
+    <link>/</link>
+    <description>Recent content in About on wilsontom.co.uk</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© {year} Thomas P Wilson</copyright>
+    <lastBuildDate>Sat, 31 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Open Source</title>
+      <link>/open-source/</link>
+      <pubDate>Thu, 26 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/open-source/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>/publications/</link>
+      <pubDate>Wed, 25 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/</guid>
+      <description>2020  Beckmann M, Wilson T, Lloyd AJ, Torres D, Goios A, Willis ND, Lyons L, Phillips H, Mathers JC and Draper J. Challenges Associated With the Design and Deployment of Food Intake Urine Biomarker Technology for Assessment of Habitual Diet in Free-Living Individuals and Populations—A Perspective. Front. Nutr. 2020, 7:602515. 
+Beckmann, M., Wilson, T., Zubair, H., Lloyd, A. J., Lyons, L., Phillips, H., Tailliart, K., Gregory, N., Thatcher, R.</description>
+    </item>
+    
+    <item>
+      <title>CV</title>
+      <link>/cv/</link>
+      <pubDate>Thu, 12 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/cv/</guid>
+      <description>Professional Memberships  2016 - Present; Member of the Royal Society of Chemistry (MRSC)
+ Employment  2015 - Present; Postdoctoral Researcher. High Resolution Metabolomics Laboratory (HRML), Institute of Biological, Environmental &amp;amp; Rural Sciences (IBERS), Aberystwyth University, UK.
 See projects for further details on specific research projects.
-Education 2011 - 2015. PhD Biologicl Sciences (Plant Metabolomics). Institute of Biological, Environmental &amp;amp; Rural Sciences (IBERS), Aberystwyth University, UK.</description></item><item><title>Projects</title><link>http://wilsontom.co.uk/projects/</link><pubDate>Thu, 12 Nov 2020 00:00:00 +0000</pubDate><guid>http://wilsontom.co.uk/projects/</guid><description>Postdoctoral Research Projects Future Foods (ERDF/WEFO) January 2020 - Present
+ Education  2011 - 2015. PhD Biologicl Sciences (Plant Metabolomics). Institute of Biological, Environmental &amp;amp; Rural Sciences (IBERS), Aberystwyth University, UK.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>/projects/</link>
+      <pubDate>Thu, 12 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/</guid>
+      <description>Postdoctoral Research Projects    Future Foods (ERDF/WEFO)  January 2020 - Present
 Working with food and drink SMEs acrosss Wales on R&amp;amp;D projects designed to boost their competitiveness. Particular focus is on working with companies with an interest in alternative protein sources. More info
-MAP/UK (MRC) June 2019 - Present
-Part of a UK consortium, working to develop, optimise, transfer, harmonise and validate efficient and high-quality research methods , specifically tailored to application in metabolic phenotyping.</description></item><item><title>Talks</title><link>http://wilsontom.co.uk/talks/</link><pubDate>Sun, 08 Nov 2020 00:00:00 +0000</pubDate><guid>http://wilsontom.co.uk/talks/</guid><description>Conference Presentations High resolution mass spectrometry fingerprinting, high performance computation and targeted quantification to develop a selection strategy for dietary exposure biomarkers. Metabomeeting, University of Birmingham, December 2017
-Developing community based urine sampling methods to integrate biomarker technology for objective assessment of dietary intake to influence lifestyle change. Welsh Endocrine and Diabetes Society: Spring Meeting,UK, May 2017
-De novo compositional analysis of meal components: using LC-MS/MS to link food components with urinary metabolites and human health in nutritional epidemiology studies.</description></item></channel></rss>
+  MAP/UK (MRC)  June 2019 - Present
+Part of a UK consortium, working to develop, optimise, transfer, harmonise and validate efficient and high-quality research methods , specifically tailored to application in metabolic phenotyping.</description>
+    </item>
+    
+    <item>
+      <title>Talks</title>
+      <link>/talks/</link>
+      <pubDate>Sun, 08 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/talks/</guid>
+      <description>Conference Presentations    High resolution mass spectrometry fingerprinting, high performance computation and targeted quantification to develop a selection strategy for dietary exposure biomarkers. Metabomeeting, University of Birmingham, December 2017
+  Developing community based urine sampling methods to integrate biomarker technology for objective assessment of dietary intake to influence lifestyle change. Welsh Endocrine and Diabetes Society: Spring Meeting,UK, May 2017
+  De novo compositional analysis of meal components: using LC-MS/MS to link food components with urinary metabolites and human health in nutritional epidemiology studies.</description>
+    </item>
+    
+  </channel>
+</rss>
