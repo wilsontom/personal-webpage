@@ -1,7 +1,8 @@
-baseURL = "http://wilsontom.co.uk/"
+baseURL = "http://www.wilsontom.co.uk/"
 languageCode = "en-us"
 title = "wilsontom.co.uk"
 copyright = "© {year} Thomas P Wilson"
+relativeURLs = true
 
 # Set Hugo theme
 theme = "hugo-theme-codex"
